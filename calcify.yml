@@ -1,0 +1,4 @@
+deploy:
+  provider: pypi
+  username: "wbradycall"
+  password: "pypi-AgEIcHlwaS5vcmcCJDlkZGE1ZTAzLWZlN2EtNDg1Mi1hMGQyLTM0ZGVkZjA3MWRmMgACKlszLCI4MDliMDEzMy1jMTcxLTQ5N2QtOGQyNy03YTM3YTYxNGM4MGIiXQAABiDfnmxl6Pt2qTNz3VP-Wnubu8vvR0z_vbWvwdBzWcQucA"
