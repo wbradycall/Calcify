@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+Calcify.egg-info/PKG-INFO
+Calcify.egg-info/SOURCES.txt
+Calcify.egg-info/dependency_links.txt
+Calcify.egg-info/top_level.txt
+calcify/Basic.py
+calcify/Multivariable.py
+calcify/ODE.py
+calcify/Polar.py
+calcify/Vector.py
+calcify/__init__.py
